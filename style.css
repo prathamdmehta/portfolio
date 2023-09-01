@@ -430,6 +430,10 @@ article .icon {
   border-color: var(--container-border);
 }
 
+.github-color{
+  color: blue;
+}
+
 /* CONTACT */
 
 #contact {
