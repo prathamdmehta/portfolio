@@ -236,7 +236,10 @@ nav a:hover {
 }
 
 .menu-links.open {
+  margin-top: 10px;
   max-height: 300px;
+  border: 2px solid var(--container-border);
+  border-radius: 8px;
 }
 
 .hamburger-icon.open span:first-child {
