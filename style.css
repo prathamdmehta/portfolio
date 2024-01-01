@@ -439,11 +439,12 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: var(--primary-color-2);
+  /* background: var(--primary-color-2); */
   border-radius: 2rem;
   border: var(--button-border);
   border-color: var(--container-border);
   text-align: center;
+  backdrop-filter: blur(3px);
 }
 
 .section-container {
