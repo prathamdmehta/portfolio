@@ -543,7 +543,8 @@ article .icon {
   border-radius: 2rem;
   border: var(--button-border);
   border-color: var(--container-border);
-  background: var(--background-color);
+  background-color: #FAACA8;
+  background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
   margin: 2rem auto;
   padding: 0.5rem;
 }
