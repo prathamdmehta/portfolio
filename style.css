@@ -444,7 +444,7 @@ section {
   border: var(--button-border);
   border-color: var(--container-border);
   text-align: center;
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(2px);
 }
 
 .section-container {
