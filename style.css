@@ -418,7 +418,6 @@ section {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
-  backdrop-filter: blur(3px);
 }
 
 .about-containers,
