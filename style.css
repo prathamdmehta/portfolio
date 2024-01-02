@@ -482,19 +482,21 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 article {
   display: flex;
-  width: 10rem;
-  justify-content: space-around;
-  gap: 0.5rem;
+  width: 20rem;
+  justify-content: center;
+  gap: 2.5rem;
 }
 
 article .icon {
   cursor: default;
+  height: 100%;
+  width: 40%;
+  gap: 1.5rem;
 }
 
 /* PROJECTS SECTION */
