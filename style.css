@@ -294,25 +294,6 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
-  animation-name: infiniteupdown;
-  animation-duration: 5s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease;
-  transition: all .5s;
-}
-
-@keyframes infiniteupdown {
-
-  0%{
-    transform: translateY(0px);
-  }
-  50%{
-    
-    transform: translateY(-40px);
-  }
-  100%{
-    transform: translateY(0px);
-  }
 }
 
 .section__text {
